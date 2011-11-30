@@ -18,4 +18,8 @@ public class Utama {
         // TODO code application logic here
     }
 
+    public void Test(){
+        return;
+    }
+
 }
